@@ -3,17 +3,17 @@ var config = {
     // 句子的长度可以任意， 你可以写十句话， 二十句话都可以
     // 每句话尽量不要超过15个字,不然展示效果可能不太好
     texts: [
-        "送给我",      //这里,每句话结尾的最后一个逗号必须是英文的哦!! 很重要哦!!
-        "心爱的小可爱",  // 同上...
-        "今天是你的生日",
-        "这是我们在一起的",
-        "第三个生日了哦",
-        "去年的生日",
-        "还记得在王婆串串吃的呢",
-        "今年要吃好的喽哦",
-        "要把我家可爱猪猪喂饱饱",
-        "然后抱走",
-        "YAMI~~",
+        "Mi bebita", 
+        "Esta es la mejor de las semanas del año", 
+        "Ya que se celebra tu cumpleaños",
+        "Espero poder hacerte feliz",
+        "y que pasemos muchos mas cumpleaños juntos",
+        "Quiero decirte que te amo un monton",
+        "y que apesar de todo",
+        "Tu eres la unica con la que quiero quedarme",
+        "Porque eres mi todo",
+        "y si te vas me quedo sin nada",
+        "Por mas años juntos bb, Te amo!!",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -25,18 +25,18 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "心爱的小可爱": "./imgs/xiaokeai.png",
+        "心爱的小可爱": "./imgs/Mi_niña.png",
         // "今天是你的生日": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
-        story: "A MESSAGE FOR YOU",
+        turn_on: "Estas lista?",
+        play: "Esta es tu sorpresa",
+        bannar_coming: "Te esta gustando?",
+        balloons_flying: "Sigue dandole",
+        cake_fadein: "Quieres un pastel？",
+        light_candle: "Encendemos la vela？",
+        wish_message: "Feliz Cumpleaños uwu",
+        story: "Te amo demasiado bb",
     }
 };
